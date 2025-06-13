@@ -1,0 +1,5 @@
+{
+    "editor.codeLens": true,
+    "java.dependency.packagePresentation": "hierarchical",
+    "java.dependency.syncWithFolderExplorer": false
+}
